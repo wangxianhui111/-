@@ -1,4 +1,5 @@
-Label U 开源标注平台 + Grounding DINO 1.5 核心总结
+Label U 开源标注平台 + Grounding DINO 1.5 
+核心总结
 Label U 标注平台
 1. 核心功能
 全流程标注支持：支持从图像/视频导入 → 自动标注 → 人工校验 → 格式导出的完整标注流程。
